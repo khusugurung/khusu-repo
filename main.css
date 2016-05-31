@@ -1,0 +1,31 @@
+<!DOCTYPE html> <html lang="en">
+ <head>
+ <title>The One Page</title>
+ <meta charset="utf-8" />
+ </head>
+ <body>
+ <h1 style="color: #F90">The One Page</h1> 
+ <p>One is greate because <span style="color: #F90">One</span> comes before all number.</p>
+ </body> 
+</html>
+Host
+second file
+Host
+<!DOCTYPE html> <html lang="en"> 
+<head>
+ <title>The Two Page</title>
+ <meta charset="utf-8" /> 
+</head>
+ <body>
+ <h1 style="color: #00F">The Two Page</h1> 
+<p>Two is bigger than one.</p> </body> </html>
+Host
+<!DOCTYPE html> <html lang="en"> <head> <title>The One Page</title> <meta charset="utf-8" /> </head> <body> <h1 style="color: #F90">The One Page</h1> <p>One is greate because <span style="color: #F90">One</span> comes before all number.</p> </body> </html> You@All: second file You@All: <!DOCTYPE html> <html lang="en"> <head> <title>The Two Page</title> <meta charset="utf-8" /> </head> <body> <h1 style="color: #00F">The Two Page</h1> <p>Two is bigger than one.</p> </body> </html>
+Host
+new index fle
+Host
+<!DOCTYPE html> <html lang="en"> <head> <title>Welcome to GIT world!</title> <meta charset="utf-8" /> </head> <body> <h1 style="color: #07F">Great SCM Tool</h1> <p>Very hot in the market!</p> <h2 style="color: #C00">News</h2> <ul> <li>we love to learn git</li> </ul> <h2>Navigation</h2> <ul> <li style="color: #F90"> <a href="one.html">The One Page</a> </li> <li style="color: #00F"> <a href="two.html">The two Page</a> </li> </ul> </body> </html>
+Host
+one and two change
+Host
+<p><a href="index.html">Return to home page</a></p>
